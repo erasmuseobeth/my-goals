@@ -17,9 +17,6 @@ body {
     overflow-x: hidden;
 }
 
-img{
-    width:100%;
-}
 
 section{
     padding: 2rem 4rem;
@@ -53,7 +50,7 @@ header {
  font-weight: normal;
  color: #082f49;
 }
-.img-box{
+.imgagw-box{
     width:100%;
     margin-top:0.5rem;
 }
