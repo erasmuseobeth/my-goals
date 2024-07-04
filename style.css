@@ -20,6 +20,7 @@ body {
 img{
     width:100%;
 }
+li{list-style:none;}
 section{
     padding: 2rem 4rem;
 }
@@ -45,7 +46,7 @@ header {
     padding-block:0.25rem;
     color: #075985;
     font-weight: bold;
-    font-size: 1rem;
+/*     font-size: 1rem; */
 
 }
 #profile p span {
