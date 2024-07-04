@@ -50,6 +50,9 @@ header {
  font-weight: normal;
  color: #082f49;
 }
+.image-box{
+    max-width:100%;
+}
 
 /* Goals section */
 #goals {
