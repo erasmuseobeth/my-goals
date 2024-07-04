@@ -20,7 +20,7 @@ body {
 img{
     width:100%;
 }
-li{list-style:none;}
+
 section{
     padding: 2rem 4rem;
 }
@@ -75,6 +75,9 @@ header {
 .goal p {
     color: #082f49;
     font-size: 1rem;
+}
+.goal ul li{
+    list-style: none;
 }
 
 /* Resources section */
