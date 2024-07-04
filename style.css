@@ -20,6 +20,9 @@ body {
 img{
     width:100%;
 }
+section{
+    padding: 2rem 4rem;
+}
 header {
     background-color: #0ea5e9; /* Medium blue for resources section */
     color: #f0f9ff; /* Lightest shade for text */
